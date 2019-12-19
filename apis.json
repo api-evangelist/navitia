@@ -1,0 +1,52 @@
+{
+    "name": "Navitia",
+    "description": "Discover our API to build cool stuff with public transport",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10165-navitia.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/navitia\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Navitia",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10165-navitia.jpg",
+            "humanURL": "http:\/\/www.navitia.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/navitia-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/navitia-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.navitia.io"
+        },
+        {
+            "type": "Email",
+            "url": "navitia@googlegroups.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/navitia"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.navitia.io\/"
+        }
+    ]
+}
