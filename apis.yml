@@ -1,0 +1,32 @@
+aid: navitia
+name: Navitia
+description: "The open API for building cool stuff with transport data"
+url: https://doc.navitia.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Navitia
+    description: "The open API for building cool stuff with transport data"
+    humanURL: https://doc.navitia.io/
+    baseURL: https://doc.navitia.io/
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://doc.navitia.io/
+common:
+  - type: Website
+    url: https://doc.navitia.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
