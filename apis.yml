@@ -39,7 +39,6 @@ apis:
   - name: Navitia
     description: "The open API for building cool stuff with transport data"
     humanURL: https://doc.navitia.io/
-    baseURL: https://doc.navitia.io/
     tags:
       - Transportation
     properties:
